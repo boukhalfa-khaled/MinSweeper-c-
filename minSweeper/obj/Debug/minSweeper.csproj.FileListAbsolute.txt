@@ -1,0 +1,10 @@
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\bin\Debug\minSweeper.exe.config
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\bin\Debug\minSweeper.exe
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\bin\Debug\minSweeper.pdb
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.csprojAssemblyReference.cache
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.Form1.resources
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.Properties.Resources.resources
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.csproj.GenerateResource.cache
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.csproj.CoreCompileInputs.cache
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.exe
+C:\Users\khaled\Desktop\mineSweeper\minSweeper\minSweeper\obj\Debug\minSweeper.pdb
